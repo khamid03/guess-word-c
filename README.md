@@ -1,5 +1,3 @@
-# guess-word-c
-```markdown
 # 🔤 Guess the Word – C Version
 
 A simple **word guessing game** written in C, where the player has **only one chance** to guess the correct word. Perfect for beginners learning how to handle user input, strings, and basic logic in C.
